@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Task\\BankAccountTesting\\BankTests\\BankTests.csproj": {}
+    "F:\\Task\\Testing\\BankAccountTesting\\BankTests\\BankTests.csproj": {}
   },
   "projects": {
-    "F:\\Task\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj": {
+    "F:\\Task\\Testing\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Task\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj",
+        "projectUniqueName": "F:\\Task\\Testing\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj",
         "projectName": "BankAccountTesting",
-        "projectPath": "F:\\Task\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj",
+        "projectPath": "F:\\Task\\Testing\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj",
         "packagesPath": "C:\\Users\\Анастасия\\.nuget\\packages\\",
-        "outputPath": "F:\\Task\\BankAccountTesting\\BankAccountTesting\\obj\\",
+        "outputPath": "F:\\Task\\Testing\\BankAccountTesting\\BankAccountTesting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",
@@ -63,14 +63,14 @@
         }
       }
     },
-    "F:\\Task\\BankAccountTesting\\BankTests\\BankTests.csproj": {
+    "F:\\Task\\Testing\\BankAccountTesting\\BankTests\\BankTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Task\\BankAccountTesting\\BankTests\\BankTests.csproj",
+        "projectUniqueName": "F:\\Task\\Testing\\BankAccountTesting\\BankTests\\BankTests.csproj",
         "projectName": "BankTests",
-        "projectPath": "F:\\Task\\BankAccountTesting\\BankTests\\BankTests.csproj",
+        "projectPath": "F:\\Task\\Testing\\BankAccountTesting\\BankTests\\BankTests.csproj",
         "packagesPath": "C:\\Users\\Анастасия\\.nuget\\packages\\",
-        "outputPath": "F:\\Task\\BankAccountTesting\\BankTests\\obj\\",
+        "outputPath": "F:\\Task\\Testing\\BankAccountTesting\\BankTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",
@@ -92,8 +92,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\Task\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj": {
-                "projectPath": "F:\\Task\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj"
+              "F:\\Task\\Testing\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj": {
+                "projectPath": "F:\\Task\\Testing\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj"
               }
             }
           }

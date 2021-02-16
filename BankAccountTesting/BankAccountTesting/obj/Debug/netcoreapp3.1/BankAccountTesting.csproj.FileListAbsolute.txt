@@ -1,0 +1,13 @@
+F:\Task\Testing\BankAccountTesting\BankAccountTesting\bin\Debug\netcoreapp3.1\BankAccountTesting.exe
+F:\Task\Testing\BankAccountTesting\BankAccountTesting\bin\Debug\netcoreapp3.1\BankAccountTesting.deps.json
+F:\Task\Testing\BankAccountTesting\BankAccountTesting\bin\Debug\netcoreapp3.1\BankAccountTesting.runtimeconfig.json
+F:\Task\Testing\BankAccountTesting\BankAccountTesting\bin\Debug\netcoreapp3.1\BankAccountTesting.runtimeconfig.dev.json
+F:\Task\Testing\BankAccountTesting\BankAccountTesting\bin\Debug\netcoreapp3.1\BankAccountTesting.dll
+F:\Task\Testing\BankAccountTesting\BankAccountTesting\bin\Debug\netcoreapp3.1\BankAccountTesting.pdb
+F:\Task\Testing\BankAccountTesting\BankAccountTesting\obj\Debug\netcoreapp3.1\BankAccountTesting.csprojAssemblyReference.cache
+F:\Task\Testing\BankAccountTesting\BankAccountTesting\obj\Debug\netcoreapp3.1\BankAccountTesting.AssemblyInfoInputs.cache
+F:\Task\Testing\BankAccountTesting\BankAccountTesting\obj\Debug\netcoreapp3.1\BankAccountTesting.AssemblyInfo.cs
+F:\Task\Testing\BankAccountTesting\BankAccountTesting\obj\Debug\netcoreapp3.1\BankAccountTesting.csproj.CoreCompileInputs.cache
+F:\Task\Testing\BankAccountTesting\BankAccountTesting\obj\Debug\netcoreapp3.1\BankAccountTesting.dll
+F:\Task\Testing\BankAccountTesting\BankAccountTesting\obj\Debug\netcoreapp3.1\BankAccountTesting.pdb
+F:\Task\Testing\BankAccountTesting\BankAccountTesting\obj\Debug\netcoreapp3.1\BankAccountTesting.genruntimeconfig.cache

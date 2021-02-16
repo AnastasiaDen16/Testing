@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BoqHmJZokCqt7T+ptRNARIyIEPXyV9lyloejnM+NrWw/QRqkg6YgAMVQky5+4t1j3NWQw2PooMrSEoWLPobDWw==",
+  "dgSpecHash": "176dHfX3JekBKhu3eBXkLK2QLLmyU5egY209hwkBbfY5mrbRct0fFkgEI8WcK8vVjWaq0srkhaIywJKy5D3bkQ==",
   "success": true,
-  "projectFilePath": "F:\\Task\\BankAccountTesting\\BankTests\\BankTests.csproj",
+  "projectFilePath": "F:\\Task\\Testing\\BankAccountTesting\\BankTests\\BankTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Анастасия\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Анастасия\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

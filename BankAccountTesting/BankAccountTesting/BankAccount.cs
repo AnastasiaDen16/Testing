@@ -2,7 +2,7 @@
 
 namespace BankAccountTesting
 {
-    class BankAccount
+    public class BankAccount
     {
         private readonly string m_customerName;
         private double m_balance;
@@ -37,7 +37,7 @@ namespace BankAccountTesting
                 throw new ArgumentOutOfRangeException("amount");
             }
 
-            m_balance += amount; // intentionally incorrect code
+            m_balance -= amount; // intentionally incorrect code
         }
 
         public void Credit(double amount)

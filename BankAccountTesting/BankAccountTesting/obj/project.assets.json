@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Task\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj",
+      "projectUniqueName": "F:\\Task\\Testing\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj",
       "projectName": "BankAccountTesting",
-      "projectPath": "F:\\Task\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj",
+      "projectPath": "F:\\Task\\Testing\\BankAccountTesting\\BankAccountTesting\\BankAccountTesting.csproj",
       "packagesPath": "C:\\Users\\Анастасия\\.nuget\\packages\\",
-      "outputPath": "F:\\Task\\BankAccountTesting\\BankAccountTesting\\obj\\",
+      "outputPath": "F:\\Task\\Testing\\BankAccountTesting\\BankAccountTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",
